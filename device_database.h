@@ -203,6 +203,7 @@ typedef enum {
   DEVICE_GTI9195_MF5,
   DEVICE_P03E_10_1010,
   DEVICE_F05E_V11R35A,
+  DEVICE_SHL22_01_01_08 = 203
 } device_id_t;
 
 #define DEVICE_SYMBOL(name)     #name
